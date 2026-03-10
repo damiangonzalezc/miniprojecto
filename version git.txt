@@ -1,0 +1,11 @@
+git --versión o git --v
+
+git help
+
+confugurar usuario, correo, nombre.
+
+PS D:\miniprojecto> git config --global -e
+PS D:\miniprojecto> git config --global user.name "damiangonzalezc"
+PS D:\miniprojecto> git config --global user.email "dam.gonzalezc@duocuc.cl"
+PS D:\miniprojecto> git config --global user.username "dam"
+PS D:\miniprojecto> git config --global -e
