@@ -1,2 +1,3 @@
 def pausa():
-    input("Presiona una tecla para continuar")
+    print("Presiona una tecla para continuar" )
+    input()
